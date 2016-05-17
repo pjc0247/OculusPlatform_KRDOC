@@ -1,6 +1,11 @@
 Oculus Platform
 ====
 
+__오큘러스 플랫폼__은 오큘러스 그래픽을 담당하는 Windows SDK 또는 Unity Integration Plugin과는 별개로, 오큘러스 마켓에 앱을 올리고 유저 정보나 친구 리스트 등을 받아오기 위한 별도의 SDK입니다.<br>
+여기서는 오큘러스 SDK를 이용해 렌더링 작업을 수행하는 방법에 대해서는 다루지 않습니다.<br>
+<br>
+__[SDK 다운로드](https://developer.oculus.com/downloads/platform/1.1/Oculus_Platform_SDK/)__
+
 앱 생성하기
 ----
 [오큘러스 개발자 사이트](https://dashboard.oculus.com/organization/create)에 접속합니다.<br>

@@ -62,7 +62,15 @@ __Launch File__ 항목은 반드시 게임 실행 파일의 경로를 입력해야 합니다.
 
 앱 테스터 등록하기
 ----
+업로드한 빌드를 다운로드 받을 수 있는 유저들을 등록하는 방법을 알아봅니다.<br>
 ![add_dev](img/add_dev.png)<br>
+앱 설정 페이지에서 __Platform__ -> __Developers__ 탭에 들어갑니다.<br>
+`Add Developers` 버튼을 클릭해 원하는 멤버를 추가합니다.
 ![restart](img/restart.png)<br>
+멤버가 추가되면, 해당 유저는 오큘러스 프로그램을 재시작해야합니다.<br>
+오큘러스 프로그램의 __Setting__ -> __Beta__ -> __Restart Oculus__ 를 클릭해 오큘러스를 재시작합니다.
 ![library](img/library.png)<br>
+재시작이 완료되면 상단 __Library__ 메뉴에 게임이 표시됩니다.<br>
+이제 게임을 다운로드 받고, 오큘러스 프로그램에서 바로 실행시킬 수 있습니다.
 ![app_info](img/app_info.png)<br>
+게임 디테일 페이지

@@ -52,7 +52,7 @@ IEnumerator LoadProfileImage(Oculus.Platform.Models.User user)
 오큘러스 개발자 사이트에 빌드를 업로드하면 등록된 개발자 및 테스터들이 오큘러스 앱을 통해 게임을 다운로드 받을 수 있습니다.<br>
 유니티에서 __PC__ 플랫폼을 선택하고 빌드합니다.
 ![build](img/build.png)<br>
-아래와 같이 빌드된 결과물이 출력되면, `Data` 폴더와 `exe` 파일을 압축합니다.
+아래와 같이 빌드된 결과물이 출력되면, `Data` 폴더와 `exe` 파일을 압축합니다.<br>
 ![build_result](img/build_result.png)<br>
 압축한 파일을 오큘러스 개발자 사이트에 업로드합니다.
 ![upload_build](img/upload_build.png)<br>
